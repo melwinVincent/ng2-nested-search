@@ -1,0 +1,40 @@
+{
+  "name": "ng2-nested-search",
+  "version": "1.0.0",
+  "description": "A simple custom pipe for filtering arrays in your angular(2+) projects and get the count of filtered items.",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "ngc": "ngc",
+    "publishPackage": "npm run build && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melwinVincent/ng2-nested-search.git"
+  },
+  "keywords": [
+    "ng2-nested-search",
+    "angular-search-filter",
+    "ng-search-filter",
+    "ng2-filter-pipe",
+    "ng-filter",
+    "angular search filter",
+    "ng search filter",
+    "ng2 search filter",
+    "angular-filter",
+    "angular filter pipe"
+  ],
+  "author": "Melwin Vincent Cheeran",
+  "license": "MIT",
+  "homepage": "https://github.com/melwinVincent",
+  "devDependencies": {
+    "@angular/core": "5.2.11",
+    "typescript": "2.6.2"
+  },
+  "bugs": {
+    "url": "https://github.com/melwinVincent/ng2-nested-search/issues"
+  }
+}
