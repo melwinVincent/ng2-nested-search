@@ -58,7 +58,7 @@ var FilterPipe = /** @class */ (function () {
     };
     FilterPipe = __decorate([
         Pipe({
-            name: "ngxSearchFilter"
+            name: "ng2NestedSearch"
         })
     ], FilterPipe);
     return FilterPipe;

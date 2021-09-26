@@ -1,7 +1,7 @@
 import { Pipe, PipeTransform } from '@angular/core';
 
 @Pipe({
-    name : "ngxSearchFilter"
+    name : "ng2NestedSearch"
 })
 
 export class FilterPipe implements PipeTransform {
