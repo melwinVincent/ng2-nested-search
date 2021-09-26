@@ -5,11 +5,11 @@ It supports nested search and you may search the array of items on specific prop
 
 ## Nested Search
 
-![Screen Recording 2021-09-06 at 12 36 50 PM](https://user-images.githubusercontent.com/12426903/134805453-7bdec7ba-7100-45af-9113-e2c0d2884535.gif)
+![Screen Recording 2021-09-26 at 3 04 06 PM](https://user-images.githubusercontent.com/12426903/134805730-0cc22169-3dc7-4263-bb14-a8c5ae1f6acb.gif)
 
 ## Search on specific properties
 
-![Screen Recording 2021-09-06 at 12 39 44 PM](https://user-images.githubusercontent.com/12426903/134805490-526f1476-a759-4468-810b-76d9e811d6dc.gif)
+![Screen Recording 2021-09-26 at 2 59 50 PM](https://user-images.githubusercontent.com/12426903/134805736-24310257-308c-4e51-8635-82e6b5bf57bc.gif)
 
 # How to use
 
@@ -137,14 +137,6 @@ filterMetadata = { count: 0 };
       <span [innerHTML]="character.gender"></span>
     </div>
   </div>
-```
-
-### You can display the filtered elements count as follows
-```
-<div>
-    <span>Total items filtered : </span>
-    <span [innerHTML]="filterMetadata.count"></span>
-</div>
 ```
 
 ## Contact
